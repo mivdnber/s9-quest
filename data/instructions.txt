@@ -1,0 +1,24 @@
+
+Een klein woordje uitleg! S9 Quest is een Multi-User Dungeon (MUD). MUDs waren
+razend populair in de late jaren '80 en de vroege jaren '90 bij de nerds die
+een inbelmodem hadden. Vergelijk het met World of Warcraft met een command line
+interface.
+
+Om iets te doen moet je dus commando's intypen. Om iets te zeggen tegen
+iedereen in de kamer, typ je bv. het volgende:
+
+zeg Ik koop nooit meer biospinazie van Delhaize!<enter>
+
+Als je straks op <enter> drukt, zal je dit te zien krijgen:
+
+╔═══════╗ De Inkomhal
+║       ║ ===========
+w       o Dit is de inkomhal van S9.
+║       ║ 
+╚═══z═══╝ 
+
+de letters in het vierkant geven uitgangen naar andere kamers aan. Om de
+westelijke uitgang te nemen, typ je heel eenvoudig "w<enter>". "ta" staat
+voor "trap af", "to" voor "trap op".
+
+Veel nerdy plezier! Druk op <enter> om verder te gaan.

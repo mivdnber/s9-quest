@@ -1,0 +1,63 @@
+---
+id:          hoofdingang
+title:       De Hoofdingang
+description: >
+  Je staat voor de trappen van de hoofdingang van S9. Zelfs al was je blind,
+  je zou deze plaats perfect herkennen aan de doordringende rioolgeur die het
+  bijzonder slecht geplaatste putje voor de trappen verspreid. Het is erg mooi
+  weer - misschien zoek je beter een frisbee, of ga je beter een bak Jupiler
+  en een lat ribbetjes halen in de Delhaize dan naar de les te gaan?
+npcs:
+  - name: Kris Coolsaet
+    behaviours:
+      - class: behaviours.npc.profs.KrisCoolsaet
+---
+id:          hoofdinkom
+title:       De Inkomhal
+description: Dit is de inkomhal van S9.
+---
+id:          a0 portaal
+title:       Het Portaal van A0
+description: Dit is het portaal van A0
+---
+id:          a0
+title:       Auditorium A0
+description: Dit is A0!!
+npcs:
+  - name: Gunnar Brinkmann
+    behaviours:
+      - class: behaviours.npc.profs.Gunnar
+---
+id:          wc a0 m
+title:       Herentoilet A0
+description: Dit is het herentoilet aan A0
+flags:       [male toilet]
+---
+id:          wc a0 v
+title:       Damestoilet A0
+description: Dit is het damestoilet aan A0
+flags:       [female toilet]
+---
+id:          dict 1
+title:       De DICT-gang
+description: Dit is de DICT-gang!
+---
+id:          dict 2
+title:       De DICT-gang
+description: Dit is de DICT-gang!
+---
+id:          dict 3
+title:       De DICT-gang
+description: Dit is de DICT-gang!
+---
+id:          zijingang
+title:       De zij-ingang
+description: Dit is de zij-ingang van S9.
+---
+id:          zijinkom
+title:       De zij-inkom
+description: Dit is de zij-inkom van S9. Die met de gehandicaptenlift.
+---
+id:          mediazaal
+title:       De mediazaal
+description: De fancy mediazaal van DICT.

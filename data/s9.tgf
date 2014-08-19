@@ -1,0 +1,50 @@
+1 hoofdingang
+2 hoofdinkom
+3 a0 portaal
+4 a0
+5 dict 1
+6 dict 2
+7 dict 3
+8 wc a0 m
+9 wc a0 v
+10 zijinkom
+11 zijingang
+12 mediazaal
+13 hoofdhal1
+14 a1 portaal
+15 a1
+16 wc a1 m
+17 wc a1 v
+#
+1 2 n
+2 1 z
+2 3 w
+3 2 o
+2 5 o
+5 2 w
+5 6 o
+6 5 w
+6 7 o
+7 6 w
+3 4 n
+4 3 z
+3 8 zw
+8 3 no
+3 9 zo
+9 3 nw
+7 10 o
+10 7 w
+11 10 n
+10 11 z
+12 11 n
+11 12 z
+2 13 to
+13 2 ta
+14 15 n
+15 14 z
+14 16 zw
+16 14 no
+14 17 zo
+17 14 nw
+14 13 o
+13 14 w

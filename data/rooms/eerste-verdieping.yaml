@@ -1,0 +1,22 @@
+---
+id:          hoofdhal1
+title:       Traphal eerste verdieping
+description: Dit is de trappenhal op de eerste verdieping.
+---
+id:          a1 portaal
+title:       Het Portaal van A1
+description: Dit is het portaal van A1
+---
+id:          a1
+title:       Auditorium A1
+description: Dit is A1!!
+---
+id:          wc a1 m
+title:       Herentoilet A1
+description: Dit is het herentoilet aan A1
+flags:       [male toilet]
+---
+id:          wc a1 v
+title:       Damestoilet A1
+description: Dit is het damestoilet aan A1
+flags:       [female toilet]
