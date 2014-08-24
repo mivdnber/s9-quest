@@ -1,4 +1,4 @@
-window.onload = function() {
+/*window.onload = function() {
     var terminal = document.getElementById('console');
     var input = document.getElementById('console-input');
     var ws = new WebSocket('ws://' + location.host + '/sock');
@@ -16,4 +16,15 @@ window.onload = function() {
             return false;
         }
     }
-}
+}*/
+
+$(function() {
+    var ws = new WebSocket('ws://' + location.host + '/sock');
+    var term = $('#terminal').terminal(function(command, term) {
+        ws.send(command);
+    }, { prompt: '>', greeting: false });
+    
+    ws.onmessage = function(evt) {
+        term.echo(evt.data);
+    }
+});
